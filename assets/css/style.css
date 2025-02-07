@@ -1,7 +1,7 @@
 /**
-* Template Name: MediaSync – Free Bootstrap Digital Marketing & Media Landing Page
-* Template URL: https://www.templaterise.com/template/mediasync-free-bootstrap-digital-marketing-media-landing-page
-* Updated: February 02 2025 with Bootstrap v5.3.3
+* Template Name: SmileNest - Free Bootstrap Medical & Doctor Landing Page Template
+* Template URL: https://www.templaterise.com/template/smilenest-free-bootstrap-medical-doctor-landing-page-template
+* Updated: February 05 2025 with Bootstrap v5.3.3
 * Author: templaterise.com
 */
 
